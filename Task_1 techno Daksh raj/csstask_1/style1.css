@@ -1,0 +1,182 @@
+/* This code is for the navbar which is the outermost and first part of our webpage. */
+#navbar {
+  width: 100%;
+  height: 8%;
+  background-color: rgb(173, 211, 244);
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  display: inline-block;
+}
+/* code for the logo */
+#navbar #Disclogo #one {
+  position: absolute;
+  left: 3.88%;
+  right: 79.72%;
+  top: 26.56%;
+  bottom: 52.42%;
+}
+
+#navbar #Disclogo #two {
+  position: absolute;
+  left: 5.22%;
+  right: 69.38%;
+  top: 26.56%;
+  bottom: 52.42%;
+}
+
+#navbar #Disclogo #three {
+  position: absolute;
+  left: 3.88%;
+  right: 79.72%;
+  top: 60.62%;
+  bottom: 27.37%;
+}
+
+#navbar #Disclogo #four {
+  position: absolute;
+  left: 5.22%;
+  right: 69.38%;
+  top: 60.62%;
+  bottom: 27.37%;
+}
+/* code for the text courses */
+#navbar #courses {
+  position: absolute;
+  left: 6.62%;
+  right: 20%;
+  top: 30.31%;
+  bottom: 51.56%;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+/* code for the subnavbar of the navbar */
+#navbar #subnavbar ul {
+  display: flex;
+  margin-left: 30%;
+}
+#navbar #subnavbar ul li {
+  list-style: none;
+  padding: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: oblique;
+}
+#navbar #subnavbar ul li:hover {
+  cursor: pointer;
+}
+/* code for the search button */
+#navbar #search form {
+  position: absolute;
+  height: 40px;
+  left: 70%;
+  right: 36.03%;
+  top: 20px;
+}
+#navbar #search form input {
+  text-align: center;
+  border-radius: 10px;
+  border: 2px solid blue;
+  width: 150px;
+}
+/* code for the aside */
+.aside {
+  position: absolute;
+  width: 264.09px;
+  height: 1876.29px;
+  left: -1px;
+  top: 41px;
+  /* border: 2px solid red; */
+  box-sizing: border-box;
+  background-color: rgba(86, 128, 104, 0.28);
+  z-index: -1;
+}
+/* code for the panel1 */
+.aside #panel1 ul {
+  display: flex;
+  margin-top: 45%;
+  list-style: none;
+  flex-direction: column;
+}
+.aside #panel1 ul li {
+  padding: 20px;
+}
+/* code for the panel2 */
+.aside #panel2 ul {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+.aside #panel2 ul li {
+  padding: 20px;
+}
+/* code for the main content part one in which i have attached the image. */
+.main1 {
+  position: absolute;
+  width: 78.9%;
+  height: 560.22px;
+  left: 263px;
+  top: 0px;
+  background-color: #f76363a8;
+
+  z-index: -1;
+}
+
+.main1 #meditation {
+  position: absolute;
+  height: 30%;
+  top: 124.89px;
+  left: 63%;
+}
+
+.main1 #pre {
+  position: absolute;
+  width: 444px;
+  height: 86px;
+  top: 144px;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+#search1 {
+  width: 46%;
+  border-radius: 34px;
+  text-align: center;
+}
+
+.main1 #contents ul {
+  display: flex;
+  list-style: none;
+  margin-top: 40%;
+}
+
+.main1 #contents ul li {
+  padding: 14px;
+  width: 22%;
+  background-color: #e1d9ff;
+  margin: 45px;
+  border-radius: 34px;
+  text-align: center;
+}
+/* code for the navbar@ */
+.main1 #navbar2 {
+  position: absolute;
+  width: 100%;
+  height: 58px;
+  top: 100%;
+  background-color: rgb(160, 157, 137);
+}
+
+.main1 #navbar2 ul {
+  display: flex;
+  list-style: none;
+  margin-top: -20px;
+}
+
+.main1 #navbar2 ul li {
+  margin: 45px;
+  cursor: pointer;
+}
