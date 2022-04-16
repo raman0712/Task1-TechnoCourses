@@ -1,9 +1,9 @@
 - Name: Rajeshwari Jadhav
 
-- Roll No: 210102021
+- Roll No: 210122045
 
-- Branch:ECE
+- Branch: Chemical Science and Technology
 
-- Hobbies: Painting, dancing, reading books, debating and listening to music.
+- Hobbies: Reading books,Sketching,Music
 
-- Languages I'm good at: English, Bengali and Hindi
+- Languages I'm good at: C++,Java
