@@ -6,4 +6,4 @@ Branch: Mathematics and Computing
 
 Hobbies: Reading books, playing basketball or badminton, swimming, photography, listening to music, random timepass (I am quite pro at that) 
 
-Languages I am good at: Hindi, English , C++ and C . But if you ask me a question i will forget everything i know :).
+Languages I am good at: Hindi, English , C++ and C .
